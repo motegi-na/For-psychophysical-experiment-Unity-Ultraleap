@@ -4,17 +4,19 @@ using Leap.Unity;
 
 // A script that substitutes past hand data obtained with GetPastHandData and delays fingers
 
+
 public class DelayHand : PostProcessProvider
 {
+    public GameObject GetPastHandData;
+    GetPastHandData getPastHandData;
     public int right_DelayFrame = 10;
     public int left_DelayFrame = 10;
 
     public override void ProcessFrame(ref Frame inputFrame)
     {
         //Load hand data from script GetPastHandData
-        GetPastHandData getPastHandData;
-        GameObject gameObject = GameObject.Find("GetPastHandData");
-        getPastHandData = gameObject.GetComponent<GetPastHandData>();
+        getPastHandData = GetPastHandData.GetComponent<GetPastHandData>();
+        
 
         Hand delayRightHand = null;
         Hand delayLeftHand = null;
