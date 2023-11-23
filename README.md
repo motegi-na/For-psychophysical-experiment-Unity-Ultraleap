@@ -28,3 +28,13 @@ Decide how many frames to delay with "DelayFrame".
 ![3](https://github.com/motegi-na/For-psychophysical-experiment-Unity-Ultraleap/assets/151810708/2f064d5b-3c9a-4250-8fa1-cd5b3fd7fd2e)
 
 
+# GainFinger.cs
+is a script that applies gain to hand movements from past hand data obtained with GetPastHandData
+
+Attach to the Leapmotion hand model.
+
+Decide how much gain to apply with t_Gain.
+
+![4](https://github.com/motegi-na/For-psychophysical-experiment-Unity-Ultraleap/assets/151810708/0656f689-3c84-4086-9426-140f805cecd2)
+
+
