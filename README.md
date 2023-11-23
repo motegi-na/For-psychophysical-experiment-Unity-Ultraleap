@@ -17,4 +17,5 @@ Place the object from which you attached this script into your project.
 
 # DelayHand
 is a script that substitutes past hand data obtained with GetPastHandData and delays fingers.
+![1](https://github.com/motegi-na/For-psychophysical-experiment-Unity-Ultraleap/assets/151810708/3f2d0789-d35d-4bcc-8af3-bac89db91ef5)
 
