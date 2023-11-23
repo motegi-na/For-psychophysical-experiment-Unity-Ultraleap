@@ -13,6 +13,9 @@ is Script that stores acquired hand data in a List for each frame.
 The hand data obtained by Leapmotion is stored for each frame and is used to realize hand delay.
 
 Place the object from which you attached this script into your project.
+
+Please take advantage of the data in your hand.
+
 ![1](https://github.com/motegi-na/For-psychophysical-experiment-Unity-Ultraleap/assets/151810708/3f2d0789-d35d-4bcc-8af3-bac89db91ef5)
 
 
