@@ -7,7 +7,7 @@ If you have any problems with the program or rights, please contact me.
 I have no intention of infringing on any rights.
 
 
-#GetPastHandData
+# GetPastHandData
 is Script that stores acquired hand data in a List for each frame.
 
 The hand data obtained by Leapmotion is stored for each frame and is used to realize hand delay.
