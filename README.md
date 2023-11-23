@@ -14,3 +14,7 @@ The hand data obtained by Leapmotion is stored for each frame and is used to rea
 
 Place the object from which you attached this script into your project.
 
+
+# DelayHand
+is a script that substitutes past hand data obtained with GetPastHandData and delays fingers.
+
