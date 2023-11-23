@@ -2,6 +2,8 @@
 
 This is the code that delays hand movements and adds gain to finger movements when using Leapmotion in Unity.
 
+Please use it for games, psychophysical research, etc.
+
 If you have any problems with the program or rights, please contact me.
 
 I have no intention of infringing on any rights.
